@@ -1,2 +1,3 @@
 # hello-world
 It is amazing
+Hi, i want to learn programming, but it is hard for me. I try again, again and again, while...
